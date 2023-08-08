@@ -1,0 +1,22 @@
+.menu {
+    display: none;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: #30302e;
+    position: absolute;
+    top: 80px;
+    right: 0px;
+    height: 300px;
+    width: 100%;  
+  }
+  .menu-barras{
+      display: initial;
+  }
+  #icone{
+      color: white;
+      font-size: 30px;
+  }
+
+  img{
+    width: 500px;
+  } 
